@@ -2,12 +2,15 @@
 title: Fall
 ---
 
+Sep 22
+: **Introduction**{: .label .label-purple }
+
 Sep 28
 : [The Cosmopolitica hypothesis](#)
   : [Debate](#)
 
 Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
+: [Intro to Java](#)
   : [Solution](#)
 
 Sep 30
