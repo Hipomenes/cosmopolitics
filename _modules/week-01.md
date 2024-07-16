@@ -1,10 +1,10 @@
 ---
-title: Introduction to Java
+title: Fall
 ---
 
 Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+: [The Cosmopolitica hypothesis](#)
+  : [Debate](#)
 
 Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
