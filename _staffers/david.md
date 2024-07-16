@@ -8,4 +8,4 @@ meta:
   Office Hours: By appointment
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Schedule an appointment](#){: .btn .btn-outline } or find me on MKH 546.
