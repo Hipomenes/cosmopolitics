@@ -1,6 +1,6 @@
 ---
 name: David Colmenares
-role: Professor
+role: Instructor
 email: dhcolmen@uci.edu
 website: https://dhcg.xyz
 photo: david.jpg
