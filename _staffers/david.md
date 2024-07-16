@@ -1,5 +1,5 @@
 ---
-name: David H. Colmenares
+name: David Colmenares
 role: Professor
 email: dhcolmen@uci.edu
 website: https://dhcg.xyz
