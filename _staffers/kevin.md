@@ -1,11 +1,11 @@
 ---
-name: Kevin Lin
-role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+name: David H. Colmenares
+role: Professor
+email: dhcolmen@uci.edu
+website: https://dhcg.xyz
+photo: david.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: By appointment
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
