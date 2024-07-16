@@ -3,10 +3,10 @@ title: Fall
 ---
 
 Sep 22
-: **Introduction**{: .label .label-purple }
+: **Introduction**{: .label .label-purple } [The Cosmopolitica hypothesis](#)
 
 Sep 28
-: [The Cosmopolitica hypothesis](#)
+: [Ontologiccal pluralism](#)
   : [Debate](#)
 
 Sep 29
