@@ -10,18 +10,19 @@ Winter 2025 (Jan 8, 22, Feb 5, 19)
 ## Fall 2024
 
 ### 1. Cosmopolitics and the Question of Universalism (Oct 2) 
-- Isabelle Stengers
-- Bruno Latour, "Whose Cosmos, which Cosmopolitics?"
+- Stengers, Isabelle. ["The cosmopolitical proposal](). In Bruno Latour & Peter Weibel (eds.), *Making Things Public*. MIT Press, 2005, 994-1003.
+- Stengers, Isabelle. ["The Course of Tolerance"](), *Cosmopolitcs VII*, The University of Minesota, 2011, pp. 303-416.
+- Bruno Latour, ["Whose Cosmos, which Cosmopolitics?"]()
 
 ### 2. Humanism and the Animal (Oct 16) 
-- Martin Heidegger, [“Letter on ‘Humanism’"]() (1947) in *Basic Writings* (Harper & Row, 1977).
-- Peter Sloterdijk, [“The Domestication of Being: the Clarification of the Clearing”]() in *Not Saved: Essays after Heidegger* (John Wiley & Sons, 2016).
+- Martin Heidegger, [“Letter on ‘Humanism’"]() (1947). In *Basic Writings*. Harper & Row, 1977.
+- Peter Sloterdijk, [“The Domestication of Being: the Clarification of the Clearing”](). In *Not Saved: Essays after Heidegger*, John Wiley & Sons, 2016.
 
 ### 3. Nature, Dignity and other Legal Fictions (Oct 30)
 - Thomas, Yan, [“The Subject of Right, the Person, Nature: Remarks on the Current Criticism of the Legal Subject”]().
 - Thomas, Yan, [“Imago naturae. Note sur l’institutionnalité de la nature à Rome”](), *Théologie et droit dans la science politique de l’État moderne*. École française de Rome, 1991, 201–27
 -  Hennette-Vauchez, Stéphanie, ["A Human Dignitas? The Contemporary Principle of Human Dignity as a Mere Reappraisal of an Ancient Legal Concept"]() (July 2008). *EUI Working Papers LAW No. 2008/18*.
-- Jeremy Waldron, *Dignity, Rank, and Rights*. Oxford University Press, Berkeley Tanner Lectures, 2012
+- Jeremy Waldron, [*Dignity, Rank, and Rights*](). Oxford University Press, Berkeley Tanner Lectures, 2012
 
 ### 4. Perspectivism and Multinaturalism (Nov 13)
 - Eduardo Viveiros de Castro [*Cannibal Metaphysics*]() (Univocal, 2017). ~ Chapters 1-4 & 7-11.
