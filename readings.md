@@ -16,12 +16,16 @@ Winter 2025 (Jan 8, 22, Feb 5, 19)
 ### Ontological Pluralism
 - Isabelle Stengers
 
+### Nature and other Legal Fictions
+- Thomas, Yan, “The Subject of Right, the Person, Nature: Remarks on the Current Criticism of the Legal Subject”.
+- Thomas, Yan, “Imago naturae. Note sur l’institutionnalité de la nature à Rome,” *Théologie et droit dans la science politique de l’État moderne* (Rome: École française de Rome, 1991), 201–27
+
 
 ### Perspectivism and Multinaturalism (Oct 15)
 - Eduardo Viveiros de Castro [*Cannibal Metaphysics*]() (Univocal, 2017). ~ Chapters 1-4 & 7-11.
 - Gilles Deleuze, [Class of December 16, 1986](), Seminar on Leibniz and the Baroque. 
 
-### 3. 
+### 3.
 
 
 ## Winter 2025
