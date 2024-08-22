@@ -45,12 +45,11 @@ Winter 2025 (Jan 8, 22, Feb 5, 19)
 
 ### 8. A New Politics
 
-- Latour
- 
+- Descola, Philippe. [Berkeley Tanner Lectures](https://tannerlectures.berkeley.edu/philippe-descola/).
+- Facing Gaia
+  
 ### 9. The Rights of Nature
 
 ## Spring 2025
-
-### 9. The Legal Personhoood of Nature 
 
 ### 10. Guest Lecture (TBA)
