@@ -38,9 +38,13 @@ Winter 2025 (Jan 8, 22, Feb 5, 19)
 
 ### 6. Making Kin
 
-### 7. 
+### 7. Forests and Mushrooms
+
+- How Forests Think
+- Tsing
 
 ### 8. A New Politics
+
 - Latour
  
 ### 9. The Rights of Nature
