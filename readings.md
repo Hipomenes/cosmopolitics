@@ -36,12 +36,14 @@ Winter 2025 (Jan 8, 22, Feb 5, 19)
 - Eduardo Viveiros de Castro [*Cannibal Metaphysics*]() (Univocal, 2017). ~ Chapters 1-4 & 7-11.
 - Gilles Deleuze, [Class of December 16, 1986](), Seminar on Leibniz and the Baroque.
 
-### A New Politics
-- Latour
+### 6. Making Kin
 
-7. Haraway
-8. Descola 
-9. The Rights of Nature
+### 7. 
+
+### 8. A New Politics
+- Latour
+ 
+### 9. The Rights of Nature
 
 ## Spring 2025
 
