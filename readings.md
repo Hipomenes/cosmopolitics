@@ -17,6 +17,7 @@ Winter 2025 (Jan 8, 22, Feb 5, 19)
 ### 2. Humanism and the Animal (Oct 16) 
 - Martin Heidegger, [“Letter on ‘Humanism’"]() (1947). In *Basic Writings*. Harper & Row, 1977.
 - Peter Sloterdijk, [“The Domestication of Being: the Clarification of the Clearing”](). In *Not Saved: Essays after Heidegger*, John Wiley & Sons, 2016.
+- 
 
 ### 3. Nature, Dignity and other Legal Fictions (Oct 30)
 - Thomas, Yan, [“The Subject of Right, the Person, Nature: Remarks on the Current Criticism of the Legal Subject”]().
@@ -24,7 +25,10 @@ Winter 2025 (Jan 8, 22, Feb 5, 19)
 -  Hennette-Vauchez, Stéphanie, ["A Human Dignitas? The Contemporary Principle of Human Dignity as a Mere Reappraisal of an Ancient Legal Concept"]() (July 2008). *EUI Working Papers LAW No. 2008/18*.
 - Jeremy Waldron, [*Dignity, Rank, and Rights*](). Oxford University Press, Berkeley Tanner Lectures, 2012
 
-### 4. ??
+### 4. Beyond Nature/Culture
+
+- Descola, Philipe. *Beyond Nature and Culture*
+- De la Cadena, Marison. "Indigenous Cosmopolitics in the Andes: Conceptual Reflections beyond Politics'"
 
 ## Winter 2025
 
@@ -33,7 +37,6 @@ Winter 2025 (Jan 8, 22, Feb 5, 19)
 - Gilles Deleuze, [Class of December 16, 1986](), Seminar on Leibniz and the Baroque.
 
 ### A New Politics
-- Lacadena, Marisol. "Indigenous Cosmopolitics in the Andes: Conceptual Reflections beyond Politics'"
 - Latour
 
 7. Haraway
