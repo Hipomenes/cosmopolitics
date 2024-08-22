@@ -24,7 +24,7 @@ Winter 2025 (Jan 8, 22, Feb 5, 19)
 -  Hennette-Vauchez, Stéphanie, ["A Human Dignitas? The Contemporary Principle of Human Dignity as a Mere Reappraisal of an Ancient Legal Concept"]() (July 2008). *EUI Working Papers LAW No. 2008/18*.
 - Jeremy Waldron, [*Dignity, Rank, and Rights*](). Oxford University Press, Berkeley Tanner Lectures, 2012
 
-### 4. Latour?
+### 4. ??
 
 ## Winter 2025
 
@@ -32,7 +32,10 @@ Winter 2025 (Jan 8, 22, Feb 5, 19)
 - Eduardo Viveiros de Castro [*Cannibal Metaphysics*]() (Univocal, 2017). ~ Chapters 1-4 & 7-11.
 - Gilles Deleuze, [Class of December 16, 1986](), Seminar on Leibniz and the Baroque.
 
-6. Lacadena
+### A New Politics
+- Lacadena, Marisol. "Indigenous Cosmopolitics in the Andes: Conceptual Reflections beyond Politics'"
+- Latour
+
 7. Haraway
 8. Descola 
 9. The Rights of Nature
