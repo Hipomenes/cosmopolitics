@@ -27,8 +27,8 @@ Winter 2025 (Jan 8, 22, Feb 5, 19)
 
 ### 4. Beyond Nature/Culture
 
-- Descola, Philipe. *Beyond Nature and Culture*
-- De la Cadena, Marison. "Indigenous Cosmopolitics in the Andes: Conceptual Reflections beyond Politics'"
+- Descola, Philippe. [*Beyond Nature and Culture*](). The University of Chicago Press, 2013.
+- De la Cadena, Marisol. ["Indigenous Cosmopolitics in the Andes: Conceptual Reflections beyond Politics.'"]() *Cultural Anthropology*, vol. 25, no. 2, 2010, pp. 334–70.
 
 ## Winter 2025
 
