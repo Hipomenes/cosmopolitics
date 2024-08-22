@@ -17,7 +17,7 @@ Winter 2025 (Jan 8, 22, Feb 5, 19)
 ### 2. Humanism and the Animal (Oct 16) 
 - Martin Heidegger, [“Letter on ‘Humanism’"]() (1947). In *Basic Writings*. Harper & Row, 1977.
 - Peter Sloterdijk, [“The Domestication of Being: the Clarification of the Clearing”](). In *Not Saved: Essays after Heidegger*, John Wiley & Sons, 2016.
-- 
+- Despret, Vinciane. “The Body We Care for: Figures of Anthropo-zoo-genesis.” Body & Society, vol. 10, no. 2, 2004, pp. 111–34.
 
 ### 3. Nature, Dignity and other Legal Fictions (Oct 30)
 - Thomas, Yan, [“The Subject of Right, the Person, Nature: Remarks on the Current Criticism of the Legal Subject”]().
