@@ -4,7 +4,7 @@ title: Fall 2024
 
 Sep 25
 : **Intro to the Workshop**{: .label .label-purple }
-: **1 hour**{: .label .label-red }
+  : **1 hour**{: .label .label-red }
 
 Oct 2
 : [Cosmopolitics and the Question of Universalism](#)
