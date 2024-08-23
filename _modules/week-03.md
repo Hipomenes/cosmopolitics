@@ -3,7 +3,7 @@ title: Srping 2025
 ---
 
 Apr
-: [Rights of nature](#)
+: [Rights of Nature, Animals, Landscapes](#)
   : **Debate**{: .label .label-red }
 
 Apr
