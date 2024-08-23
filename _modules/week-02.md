@@ -1,23 +1,19 @@
 ---
-title: Basic Data Structures
+title: Winter 2025
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Jan 8
+: [Perspectivism and Multinaturalism](#)
+  : [Viveiros de Castro, Deleuze](#)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Jan 22
+: [Making Kin](#)
+  : [Haraway](#)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+Feb 5
+: [Multi-Species Ethnographies](#)
+  : [Kohn, Tsing](#)
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Feb 19
+: [A New Cosmo-Politics](#)
+  : [Descola, Kopenawa](#)
