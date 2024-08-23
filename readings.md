@@ -30,29 +30,30 @@ description: Workshop reading list.
 
 ## Winter 2025
 
-### 5. Perspectivism and Multinaturalism (Nov 13)
+### 5. Perspectivism and Multinaturalism (Jan 8)
 - Eduardo Viveiros de Castro [*Cannibal Metaphysics*]() (Univocal, 2017). ➜ Chapters 1-4 & 7-11.
 - Gilles Deleuze, *Cours sur Leibniz et le baroque*, Vincennes - St Deni, Dec 16, 1986. ➜ [Recording](https://youtu.be/Sn1XxZeinS8?feature=shared), [French Transcript](https://deleuze.cla.purdue.edu/lecture/lecture-04-6/), or[English Trans.](https://deleuze.cla.purdue.edu/wp-content/uploads/2020/01/4a-GD-Leibniz16Dec1986-English-Revision-2024.pdf)
 
-### 6. Re-Thinking Relations
+### 6. Re-Thinking Relations (Jan 22)
  
 - Donna J. Haraway, [*The Companion Species Manifesto: Dogs, People, and Significant Otherness*](), The University of Chicago Press, 2003.
 - Marilyn Strathern, *Relations: An Anthropological Account*, Duke University Press, 2020.
  
-### 7. Forests and Mushrooms
+### 7. Multi-Species Ethnographies (Feb 5)
 
-- Kohn, Eduardo. [*How Forests Think: Toward an Anthropology beyond the Human*](). University of California Press, 2013.
+- Eduardo Kohn, [*How Forests Think: Toward an Anthropology beyond the Human*](). University of California Press, 2013.
 - ​Anna Lowenhaupt Tsing, [*The Mushroom at the End of the World : On the Possibility of Life in Capitalist Ruins*](). Princeton University Press, 2015.
 
-### 8. A New Politics
+### 8. A New Politics (Feb 19) 
 
 - Descola, Philippe. [Berkeley Tanner Lectures](https://tannerlectures.berkeley.edu/philippe-descola/).
-- Davi Kopenawa Yanomami
+- Kopenawa, Davi, and Bruce Albert. [*The Falling Sky : Words of a Yanomami Shaman], Translated by Nicholas Elliott and Alison Dundy, The Belknap Press of Harvard University Press, 2013
   
-### 9. The Rights of Nature
-
-- Independent Research and Debate.
 
 ## Spring 2025
+
+### 9. The Rights of Nature, Animals, Landscapes (Apr)
+
+- Independent research and debate.
 
 ### 10. Guest Lecture (TBA)
