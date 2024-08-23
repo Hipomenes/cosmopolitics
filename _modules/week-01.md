@@ -1,5 +1,5 @@
 ---
-title: Fall
+title: Fall 2024
 ---
 
 Sep 25
