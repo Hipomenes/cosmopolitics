@@ -7,8 +7,8 @@ Jan 8
   : [Viveiros de Castro, Deleuze](#)
 
 Jan 22
-: [Making Kin](#)
-  : [Haraway](#)
+: [Re-Thinking Relations](#)
+  : [Haraway, Strathern](#)
 
 Feb 5
 : [Multi-Species Ethnographies](#)
