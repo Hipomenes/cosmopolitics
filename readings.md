@@ -27,7 +27,7 @@ Winter 2025 (Jan 8, 22, Feb 5, 19)
 
 ### 4. Beyond the Great Divide (**Nov 13**)
 
-- Descola, Philippe. [*Beyond Nature and Culture*](). The University of Chicago Press, 2013. ➙ Chaps. 1-4, 11.
+- Descola, Philippe. [*Beyond Nature and Culture*](). The University of Chicago Press, 2013. ➙ Chaps. 1-5, 11.
 - De la Cadena, Marisol. ["Indigenous Cosmopolitics in the Andes: Conceptual Reflections beyond Politics.'"]() *Cultural Anthropology*, vol. 25, no. 2, 2010, pp. 334–70.
 
 ## Winter 2025
