@@ -3,11 +3,11 @@ title: Fall
 ---
 
 Sep 22
-: **Introduction**{: .label .label-purple } [The Cosmopolitica hypothesis](#)
+: **Introduction**{: .label .label-purple } [Brief Intro to the Workshop](#)
 
 Sep 28
-: [Ontologiccal pluralism](#)
-  : [Debate](#)
+: [Cosmopolitics and the Question of Universalism](#)
+  : [Stengers, Latour](#)
 
 Sep 29
 : [Intro to Java](#)
