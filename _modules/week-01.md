@@ -11,7 +11,7 @@ Oct 2
   : [Stengers, Latour](#)
 
 Oct 16
-: [Humanitas and the Animal](#)
+: [*Humanitas* and the Animal](#)
   : [Heidegger, Sloterdijk, Despret](#)
 
 Oct 30
