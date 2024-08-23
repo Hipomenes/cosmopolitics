@@ -2,22 +2,22 @@
 title: Fall
 ---
 
-Sep 22
-: **Introduction**{: .label .label-purple } [Brief Intro to the Workshop](#)
+Sep 25
+: **Introduction**{: .label .label-purple } [One Hour Session](#)
 
-Sep 28
+Oct 2
 : [Cosmopolitics and the Question of Universalism](#)
   : [Stengers, Latour](#)
 
-Sep 29
-: [Intro to Java](#)
-  : [Solution](#)
+Oct 16
+: [Natura, Dignitas and other Legal Fictions](#)
+  : [Thomas, Hennette-Vauchez, Waldron](#)
 
-Sep 30
+Oct 30
 : [Variables & Objects](#)
   : [1.2](#), [2.1](#)
 
-Oct 1
+Nov 13
 : **Lab**{: .label .label-purple } [Intro to Java](#)
 
 Oct 2
