@@ -27,8 +27,8 @@ Winter 2025 (Jan 8, 22, Feb 5, 19)
 
 ### 4. Beyond the Great Divide (Nov 13)
 
-- Descola, Philippe. [*Beyond Nature and Culture*](). The University of Chicago Press, 2013. ➜ Chaps. 1-5, 11.
-- De la Cadena, Marisol. ["Indigenous Cosmopolitics in the Andes: Conceptual Reflections beyond Politics.'"]() *Cultural Anthropology*, vol. 25, no. 2, 2010, pp. 334–70.
+- Philippe Descola. [*Beyond Nature and Culture*](). The University of Chicago Press, 2013. ➜ Chaps. 1-5, 11.
+- Marisol de la Cadena. ["Indigenous Cosmopolitics in the Andes: Conceptual Reflections beyond Politics.'"]() *Cultural Anthropology*, vol. 25, no. 2, 2010, pp. 334–70.
 
 ## Winter 2025
 
@@ -36,7 +36,11 @@ Winter 2025 (Jan 8, 22, Feb 5, 19)
 - Eduardo Viveiros de Castro [*Cannibal Metaphysics*]() (Univocal, 2017). ➜ Chapters 1-4 & 7-11.
 - Gilles Deleuze, *Cours sur Leibniz et le baroque*, Vincennes - St Deni, Dec 16, 1986. ➜ [Recording](https://youtu.be/Sn1XxZeinS8?feature=shared), [French Transcript](https://deleuze.cla.purdue.edu/lecture/lecture-04-6/), or[English Trans.](https://deleuze.cla.purdue.edu/wp-content/uploads/2020/01/4a-GD-Leibniz16Dec1986-English-Revision-2024.pdf)
 
-### 6. Making Kin
+### 6. Re-Thinking Relations
+
+- Marilyn Strathern, “Relations”. In *The Open Encyclopedia of Anthropology*, Felix Stein (ed), (2018) 2023. 
+- Jane Bennett, *Vibrant Matter: A Political Ecology of Things*. Duke University Press, 2009.
+- Donna J. Haraway, *Staying with the Trouble: Making Kin in the Chthulucene*. Duke University Press, 2016.
 
 ### 7. Forests and Mushrooms
 
@@ -46,7 +50,7 @@ Winter 2025 (Jan 8, 22, Feb 5, 19)
 ### 8. A New Politics
 
 - Descola, Philippe. [Berkeley Tanner Lectures](https://tannerlectures.berkeley.edu/philippe-descola/).
-- Facing Gaia
+- Davi Kopenawa Yanomami.
   
 ### 9. The Rights of Nature
 
