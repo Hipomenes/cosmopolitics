@@ -33,8 +33,8 @@ Winter 2025 (Jan 8, 22, Feb 5, 19)
 ## Winter 2025
 
 ### 5. Perspectivism and Multinaturalism (Nov 13)
-- Eduardo Viveiros de Castro [*Cannibal Metaphysics*]() (Univocal, 2017). ~ Chapters 1-4 & 7-11.
-- Gilles Deleuze, [Class of December 16, 1986](), Seminar on Leibniz and the Baroque.
+- Eduardo Viveiros de Castro [*Cannibal Metaphysics*]() (Univocal, 2017). ➜ Chapters 1-4 & 7-11.
+- Gilles Deleuze, *Cours sur Leibniz Leibniz et le baroque*, Dec 16, 1986. ➜ [French Transcript](), [Recording](https://youtu.be/Sn1XxZeinS8?feature=shared), [English Trans.]()
 
 ### 6. Making Kin
 
