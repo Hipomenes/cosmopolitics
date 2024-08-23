@@ -25,7 +25,7 @@ Winter 2025 (Jan 8, 22, Feb 5, 19)
 -  Hennette-Vauchez, Stéphanie, ["A Human Dignitas? The Contemporary Principle of Human Dignity as a Mere Reappraisal of an Ancient Legal Concept"]() (July 2008). *EUI Working Papers LAW No. 2008/18*.
 - Jeremy Waldron, [*Dignity, Rank, and Rights*](). Oxford University Press, Berkeley Tanner Lectures, 2012
 
-### 4. Beyond the Great Divide (**Nov 13**)
+### 4. Beyond the Great Divide (Nov 13)
 
 - Descola, Philippe. [*Beyond Nature and Culture*](). The University of Chicago Press, 2013. ☞ Chaps. 1-5, 11.
 - De la Cadena, Marisol. ["Indigenous Cosmopolitics in the Andes: Conceptual Reflections beyond Politics.'"]() *Cultural Anthropology*, vol. 25, no. 2, 2010, pp. 334–70.
