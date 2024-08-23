@@ -3,7 +3,7 @@ title: Fall 2024
 ---
 
 Sep 25
-: **Introduction**{: .label .label-purple }
+: **Intro to the Workshop**{: .label .label-purple }
 : **1 hour**{: .label .label-red }
 
 Oct 2
