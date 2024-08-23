@@ -7,7 +7,7 @@ description: Workshop reading list.
 
 ## Fall 2024
 
-### 1. Cosmopolitics and the Question of Universalism (Oct 2) 
+### 1. Cosmopolitics and the Question of Universalism (Oct 2 {: .label .label-purple }) 
 - Isabelle Stengers, ["The cosmopolitical proposal](). In Bruno Latour & Peter Weibel (eds.), *Making Things Public*. MIT Press, 2005, 994-1003.
 - Isabelle Stengers, ["The Course of Tolerance"](), *Cosmopolitcs VII*, The University of Minesota, 2011, pp. 303-416.
 - Bruno Latour, ["Whose Cosmos, which Cosmopolitics?"]()
