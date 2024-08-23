@@ -7,5 +7,5 @@ Apr
   : **Debate**{: .label .label-red }
 
 Apr
-: **Guest Speaker TBA**{: .label .label-purple }
+: **Guest Lecture (TBA)**{: .label .label-purple }
   : **Via Zoom**{: .label .label-red }
