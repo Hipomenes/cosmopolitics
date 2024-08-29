@@ -5,20 +5,19 @@ description: >-
     Course information.
 ---
 
+# About
+{:.no_toc}
 
-## Meetings
+## Table of contents
+{: .no_toc .text-delta }
 
-The workshop will meet on select Wednesays, from 10am to 1pm. See the [Calendar](/calendar) for a detailed schedule.
+1. TOC
+{:toc}
 
-## Locations
+---
 
-Humanities Gateway 303. 
 
-## Attendance and Participation
+## Course Information 
 
-There will be no writing assignments for the workshop. Credit is dependent on attendance, reading and **active** participation.  
-
-## Readings
-
-The readings assigned for each session are roughly equivalent to a short book. Sessions will be held every two weeks.
+The workshop will meet on select Wednesays in Humanities Gateway 303, from 10am to 1pm. See the [calendar](##calendar) below for a detailed schedule. There will be no writing assignments for the workshop. Credit is dependent on attendance, reading and **active** participation. You can make up for a missed session by preparing a kick-off presentation the next session. The readings for every session are roughly equivalent to a short book.
 
