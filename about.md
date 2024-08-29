@@ -26,6 +26,8 @@ The workshop will meet on select Wednesays in Humanities Gateway 303, from 10am 
 # Calendar
 
 {% for module in site.modules %}
+{{ module }}
+{% endfor %}
 
 ---
 
@@ -74,7 +76,6 @@ The workshop will meet on select Wednesays in Humanities Gateway 303, from 10am 
 
 - Descola, Philippe. [Berkeley Tanner Lectures](https://tannerlectures.berkeley.edu/philippe-descola/).
 - Kopenawa, Davi, and Bruce Albert. [*The Falling Sky : Words of a Yanomami Shaman*](), Translated by Nicholas Elliott and Alison Dundy, The Belknap Press of Harvard University Press, 2013
-  
 
 ## Spring 2025
 
@@ -83,8 +84,6 @@ The workshop will meet on select Wednesays in Humanities Gateway 303, from 10am 
 - Independent research and debate.
 
 ### 10. Guest Lecture (**TBA**)
-{{ module }}
-{% endfor %}
 
 ---
 
