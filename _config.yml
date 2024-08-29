@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Cosmopolitics
 tagline: Critica Theory Workshop
-description: UC Irvine | Critical Theory | 2020-2025
+description: UC Irvine | Critical Theory | 2024-2025
 author: David H. Colmenares
 baseurl: '/cosmopolitics' # the subpath of your site, e.g. /blog
 url: 'https://dhcg.xyz' # the base hostname & protocol for your site, e.g. http://example.com
@@ -30,10 +30,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  David H. Colmenares:
-    - 'https://dhcg.xyz'
-  GitHub:
-    - 'https://github.com/hipomenes/cosmopolitics'
+  Critical Theory Emphasis:
+    - 'https://www.humanities.uci.edu/critical/critical-theory-emphasis'
+  UCI:
+    - 'https://www.humanities.uci.edu/'
 footer_content:
 
 # Collections for website data
