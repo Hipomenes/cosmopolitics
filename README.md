@@ -8,13 +8,16 @@ seo:
   name: Just the Class
 ---
 
+Critical Theory Workshop
+{: .fw-700 }
+
+# About
+{:.no_toc}
 
 If thinking is the art of discovering difference, “cosmopolitics” is the art of establishing relational grammars across species and determinations of being—a form of ontological diplomacy. In contemporary usage, it names the epistemic, political and legal strategies that seek to build human-non-human assemblages, coalitions *contra naturam*. Hijacking “cosmopolitics” from Kant, Belgian philosopher of science Isabelle Stengers adopted the ancient notion of *kosmopoliḗtēs* (Diog. Laert 6.63) as a leitmotif. She proposed moving beyond the universal triumphalism of the history of science into an “ecology of practices of knowledge,” drawing inspiration from William James’ pluralism and Ernst Mach’s phenomenological constructivism. For Stengers, the ‘cosmos’ in cosmopolitics does not allude to the unified objective world of modern science, the bedrock grounding subjective or culturalist representations, but to an “unknown, constituted by multiple, divergent worlds”; a relational field of non-equivalence in which relations need to be constantly created and re-established, not discovered. Brazilian anthropologist Eduardo Viveiros de Castro later called such an ontology, amply illustrated in Amerindian socio-cosmologies, “multinaturalism”.
 
 This workshop seeks to delineate a possible genealogy of cosmopolitics as an epistemic paradigm across the humanities and social sciences as much as a political strategy. Readings will include foundational texts, such as selections from Stengers’s seven-volume Cosmopolitiques; Donna Haraway’s When Species Meet and Staying with the Trouble; and Viveiros de Castro’s Cannibal Metaphysics. We then will revisit important essays on post-Humanism by Martin Heidegger and Peter Sloterdijk, and conduct a “conceptual history” of the categories that cosmopolitics calls into question. Thus, we will investigate the history of personhood and nature as “legal fictions” rooted in Roman law, according to French legal theorist Yan Thomas, as well as the notion of dignitas, from ancient Stoicism to the dignitiarian paradigm in contemporary bioethics. We will also examine some of the most successful anthropological theories of non-human agency—Bruno Latour’s Actor-Network Theory, Alfred Gell’s anthropology of art and Carlo Severi’s ritual action theory—as well as the emerging paradigms of perspectivism and multinaturalism in Amazonian (Viveiros de Castro) and Andean anthropology (Marisol de la Cadena). Readings might also include important books redefining the very notion of (inert) landscapes, such as Julie Cruikshank’s Do Glaciers Listen? and Eduardo Kohn, How Forests Think. Finally, we will consider the implications and limits of the recent trend of granting legal personhood to rivers and landscapes in Colombia, India, and New Zealand.
 
-# About
-{:.no_toc}
 
 ## Table of contents
 {: .no_toc .text-delta }
