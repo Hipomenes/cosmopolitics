@@ -20,6 +20,9 @@ author: David H. Colmenares
 baseurl: '/cosmopolitics' # the subpath of your site, e.g. /blog
 url: 'https://dhcg.xyz' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+kramdown:
+  ...
+  toc_levels: 2..6
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.8.2
