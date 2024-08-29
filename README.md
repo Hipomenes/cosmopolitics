@@ -8,7 +8,7 @@ seo:
   name: Cosmopolitics
 ---
 
-# Critical Theory Workshop
+## Critical Theory Workshop
 {:.no_toc}
 
 |:-------------|:------------------|:------|
@@ -18,7 +18,7 @@ If thinking is the art of discovering difference, “cosmopolitics” is the art
 
 ---
 
-# Instructor
+## Instructor
 {:.no_toc}
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -27,6 +27,9 @@ If thinking is the art of discovering difference, “cosmopolitics” is the art
 {% endfor %}
 
 ---
+
+# About
+{:.no_toc}
 
 ## Table of contents
 {: .no_toc .text-delta }
