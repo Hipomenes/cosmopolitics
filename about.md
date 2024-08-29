@@ -83,3 +83,12 @@ The workshop will meet on select Wednesays in Humanities Gateway 303, from 10am 
 {{ module }}
 {% endfor %}
 
+## Instructor
+
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
+
+
