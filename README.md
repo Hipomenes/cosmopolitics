@@ -4,15 +4,15 @@ title: About the workshop
 nav_exclude: true
 permalink: /:path/
 seo:
-  type: Course
-  name: Just the Class
+  type: Workshop
+  name: Cosmopolitics
 ---
 
-Critical Theory Workshop
-{: .fw-700 }
-
-# About
+# Critical Theory Workshop
 {:.no_toc}
+
+2024-2025
+{: .fw-700 }
 
 If thinking is the art of discovering difference, “cosmopolitics” is the art of establishing relational grammars across species and determinations of being—a form of ontological diplomacy. In contemporary usage, it names the epistemic, political and legal strategies that seek to build human-non-human assemblages, coalitions *contra naturam*. Hijacking “cosmopolitics” from Kant, Belgian philosopher of science Isabelle Stengers adopted the ancient notion of *kosmopoliḗtēs* (Diog. Laert 6.63) as a leitmotif. She proposed moving beyond the universal triumphalism of the history of science into an “ecology of practices of knowledge,” drawing inspiration from William James’ pluralism and Ernst Mach’s phenomenological constructivism. For Stengers, the ‘cosmos’ in cosmopolitics does not allude to the unified objective world of modern science, the bedrock grounding subjective or culturalist representations, but to an “unknown, constituted by multiple, divergent worlds”; a relational field of non-equivalence in which relations need to be constantly created and re-established, not discovered. Brazilian anthropologist Eduardo Viveiros de Castro later called such an ontology, amply illustrated in Amerindian socio-cosmologies, “multinaturalism”.
 
