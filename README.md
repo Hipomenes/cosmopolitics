@@ -8,6 +8,9 @@ seo:
   name: Cosmopolitics
 ---
 
+# Cosmopolitics
+{:.no_toc}
+
 ## Critical Theory Workshop
 {:.no_toc}
 
