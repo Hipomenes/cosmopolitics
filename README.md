@@ -31,7 +31,7 @@ If thinking is the art of discovering difference, “cosmopolitics” is the art
 
 ---
 
-# About
+# Course Information 
 {:.no_toc}
 
 ## Table of contents
@@ -42,10 +42,7 @@ If thinking is the art of discovering difference, “cosmopolitics” is the art
 
 ---
 
-
-# Course Information 
-
-The workshop will meet on select Wednesays in Humanities Gateway 303, from 10am to 1pm. See the [calendar](##calendar) below for a detailed schedule. There will be no writing assignments for the workshop. Credit is dependent on attendance, reading and **active** participation. You can make up for a missed session by preparing a kick-off presentation the next session. The readings for every session are roughly equivalent to a short book.
+The workshop will meet on select Wednesays during Fall 2024, Winter and Spring of 2025 from 10am to 1pm. See the calendar below for a detailed schedule. There are no writing assignments for the workshop, so credit is dependent on attendance, reading and **active** participation. Full attendance of the 10 workshop sessions is expected, but you can make up for a missed session by preparing a kick-off presentation. The reading load will be equivalent to a short book for every session.
 
 ---
 
