@@ -18,6 +18,6 @@ Oct 30
 : [*Natura, Dignitas* and other Legal Fictions](#)
   : [Thomas, Hennette-Vauchez, Waldron](#)
 
-Noc 13
+Nov 13
 : [Beyond the Great Divide](#)
   : [Descola, De la Cadena](#)
