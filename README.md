@@ -104,7 +104,7 @@ The workshop will meet on select Wednesays during Fall 2024, Winter and Spring o
 
 ### 9. The Rights of Nature, Animals, Landscapes (**Apr**)
 
-- Independent research and debate.
-
-### 10. Guest Lecture (**TBA**)
+- Independent research. Debate.
+  
+### 10. Open Session
 
