@@ -7,5 +7,4 @@ Apr
   : **Via Zoom**{: .label .label-red }
 
 Apr
-: [Final Session](#)
-  : **Readings TBA**{: .label .label-purple }
+: **Open Session**{: .label .label-purple }
