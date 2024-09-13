@@ -1,5 +1,5 @@
 ---
-title: Srping 2025
+title: Spring 2025
 ---
 
 Apr 
