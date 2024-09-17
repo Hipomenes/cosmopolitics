@@ -15,5 +15,5 @@ Feb 5
   : [Kohn, Tsing](#)
 
 Feb 19
-: [A New Cosmo-Politics](#)
-  : [Descola, Kopenawa](#)
+: [*Cataclysmus* and Political Reason](#)
+  : [Stengers, Danowski, Viveiros de Castro](#)
