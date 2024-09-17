@@ -95,16 +95,17 @@ The workshop will meet on select Wednesays during Fall 2024, Winter and Spring o
 - Eduardo Kohn, [*How Forests Think: Toward an Anthropology beyond the Human*](). University of California Press, 2013.
 - ​Anna Lowenhaupt Tsing, [*The Mushroom at the End of the World : On the Possibility of Life in Capitalist Ruins*](). Princeton University Press, 2015.
 
-### 8. A New Cosmo-Politics (**Feb 19**) 
+### 8. *Cataclysmus* (**Feb 19**) 
 
-- Descola, Philippe. [Berkeley Tanner Lectures](https://tannerlectures.berkeley.edu/philippe-descola/).
-- Kopenawa, Davi, and Bruce Albert. [*The Falling Sky : Words of a Yanomami Shaman*](), Translated by Nicholas Elliott and Alison Dundy, The Belknap Press of Harvard University Press, 2013
+- Isabelle Stengers, [*In Catastrophic Times: Resisting the Coming Barbarism*](), trans. by A. Goffey. Open Humanities Press, 2015.
+- Déborah Danowski & Eduardo Viveiros de Castro, [*The Ends of the World*]() trans. R. Guimaraes Nunes. Wiley, 2016. 
 
 ## Spring 2025
 
-### 9. The Rights of Nature, Animals, Landscapes (**Apr**)
+### 9. A Geontological Turn? (**Apr**)
 
-- Independent research. Debate.
-  
+- Patrice Maniglier, ["How many Earths? The geological turn in anthropology."]() *The Otherwise* 1 (2020): 61-75.
+- Elizabeth Povinelli, [*Geontologies. A Requiem to Late Liberalism*](). Duke University Press, 2016.
+
 ### 10. Open Session
 
