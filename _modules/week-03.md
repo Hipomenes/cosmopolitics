@@ -4,7 +4,7 @@ title: Spring 2025
 
 Apr 
 : [Geontology](#)
-  : Maniglier, Povinelli
+  : [Maniglier, Povinelli]()
   : **Via Zoom**{: .label .label-red }
 
 Apr
