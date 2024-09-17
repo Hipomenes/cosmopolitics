@@ -3,8 +3,8 @@ title: Spring 2025
 ---
 
 Apr 
-: [Rights of Nature, Animals, Landscapes](#)
-  : Group chooses readings
+: [Geontology](#)
+  : Maniglier, Povinelli
   : **Via Zoom**{: .label .label-red }
 
 Apr
