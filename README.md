@@ -83,7 +83,7 @@ The workshop will meet on select Wednesays during Fall 2024, Winter and Spring o
 
 ### 5. Perspectivism and Multinaturalism (**Jan 8**)
 - Eduardo Viveiros de Castro [*Cannibal Metaphysics*]() (Univocal, 2017). ➜ Chapters 1-4 & 7-11.
-- Gilles Deleuze, *Cours sur Leibniz et le baroque*, Vincennes - St Deni, Dec 16, 1986. ➜ [Recording](https://youtu.be/Sn1XxZeinS8?feature=shared) | [French Transcript](https://deleuze.cla.purdue.edu/lecture/lecture-04-6/) | [English Trans.](https://deleuze.cla.purdue.edu/wp-content/uploads/2020/01/4a-GD-Leibniz16Dec1986-English-Revision-2024.pdf)
+- Gilles Deleuze, *Cours sur Leibniz et le baroque*, Vincennes - St Deni, Dec 16, 1986. ➜ [Recording](https://youtu.be/Sn1XxZeinS8?feature=shared) / [French Transcript](https://deleuze.cla.purdue.edu/lecture/lecture-04-6/) / [English Trans.](https://deleuze.cla.purdue.edu/wp-content/uploads/2020/01/4a-GD-Leibniz16Dec1986-English-Revision-2024.pdf)
 
 ### 6. Re-Thinking Relations (**Jan 22**)
  
