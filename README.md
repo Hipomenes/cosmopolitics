@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About the workshop
+title: CT Workshop | Cosmopolitics
 nav_exclude: true
 permalink: /:path/
 seo:
