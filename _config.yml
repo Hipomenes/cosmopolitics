@@ -30,7 +30,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 callouts:
-  warning:
+  note:
     title: Note
     color: yellow
 aux_links:
