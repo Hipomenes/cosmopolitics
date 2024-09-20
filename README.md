@@ -60,9 +60,10 @@ The workshop will meet on select Wednesays during Fall 2024, Winter and Spring o
 
 ### 1. Cosmopolitics and the Question of Universalism (**Oct 2**) 
 - Isabelle Stengers, ["The cosmopolitical proposal](https://drive.google.com/file/d/1oP3SStew2TSE18Wm9hHQBkcEDK913YZK/view?usp=drive_link). In Bruno Latour & Peter Weibel (eds.), *Making Things Public*. MIT Press, 2005, 994-1003.
-  -  (Or the slightly longer (and clearer): Stengers Isabelle, [«La proposition cosmopolitique»](https://drive.google.com/file/d/1n7W3fe2b1pu18Jpbv_0aU_tquQnyLGsZ/view?usp=drive_link), in Jacques Lolive et Olivier Soubeyran , *L'émergence des cosmopolitiques*, La Découverte « Recherches », 2007 p. 45-68.
+  
 {: .highlight }
-Or the slightly longer (and clearer): Stengers Isabelle, [«La proposition cosmopolitique»](https://drive.google.com/file/d/1n7W3fe2b1pu18Jpbv_0aU_tquQnyLGsZ/view?usp=drive_link), in Jacques Lolive et Olivier Soubeyran , *L'émergence des cosmopolitiques*, La Découverte « Recherches », 2007 p. 45-68.
+Here's the slightly longer (and clearer) original version: Stengers Isabelle, [«La proposition cosmopolitique»](https://drive.google.com/file/d/1n7W3fe2b1pu18Jpbv_0aU_tquQnyLGsZ/view?usp=drive_link), in Jacques Lolive et Olivier Soubeyran , *L'émergence des cosmopolitiques*, La Découverte « Recherches », 2007 p. 45-68.
+
 - Isabelle Stengers, ["The Course of Tolerance"](https://drive.google.com/file/d/1P4sxe2oGqRBNU797tyVhPRLnraFIm09E/view?usp=drive_link), *Cosmopolitcs VII*, The University of Minesota, 2011, pp. 303-416.
 - Bruno Latour, ["Whose Cosmos, which Cosmopolitics?"](https://drive.google.com/file/d/1UQcc9IOb158gjMkeTaf2HBGTGotTurd8/view?usp=drive_link),*Common Knowledge* 10:3, 2004, pp. 450-462.
 
