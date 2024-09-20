@@ -29,6 +29,10 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
+callouts:
+  warning:
+    title: Note
+    color: yellow
 aux_links:
   Critical Theory Emphasis:
     - 'https://www.humanities.uci.edu/critical/critical-theory-emphasis'
