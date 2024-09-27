@@ -1,4 +1,9 @@
-﻿# CRITICAL THEORY WORKSHOP
+---
+layout: page
+title: Relatoria
+---
+
+# CRITICAL THEORY WORKSHOP
 
 # *Cosmopolitics*
 
