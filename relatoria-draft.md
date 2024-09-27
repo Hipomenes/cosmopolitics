@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Relatoria
+title: Proceedings
 ---
 
 # CRITICAL THEORY WORKSHOP
