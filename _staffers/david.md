@@ -8,4 +8,4 @@ meta:
   Office: MKH 546
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Schedule an appointment](https://calendar.app.google/tQBYWqMB41mGS1wU7){: .btn .btn-outline }
