@@ -69,7 +69,7 @@ The workshop will meet on select Wednesays during Fall 2024, Winter and Spring o
 - Martin Heidegger, [“Letter on ‘Humanism’"](https://drive.google.com/file/d/1RLJU7MkzX_a4t6hgNTuLaaHmYwLh0XTL/view?usp=drive_link) (1947). In *Basic Writings*. Harper & Row, 1977.
   - You can also read this [new critical edition and translation](https://drive.google.com/file/d/1XXohvPF8IGQJvk6NDlfzW1lVVt2W1rp0/view?usp=drive_link). The academic apparatus, including the multiple German interpolations, is very useful, but the typography is not the nicest. And here's the original [*Über den Humanismus*](https://archive.org/details/martin-heidegger-uber-den-humanismus-2000-vittorio-klostermann-frankfurt-am-main) 
 - Peter Sloterdijk, [“The Domestication of Being: the Clarification of the Clearing”](https://drive.google.com/file/d/1AiJ_fsqgegqTS4c4TPOQR9ZVvzF_lM93/view?usp=drive_link). In *Not Saved: Essays after Heidegger*, John Wiley & Sons, 2016.
-  - Sloterdijk originally delivered this lecture in French at the Centre Pompidou. Here's [a partial recording](https://www.youtube.com/watch?v=ZGEO4Yxkjbw) of the lecture. 
+  - Sloterdijk originally delivered this lecture in French at the Centre Pompidou. Here's the [original publication](https://drive.google.com/file/d/1lvyMSnGFQz97NoD-_Pvng1-f0Kcxu3uI/view?usp=drive_link), and here [a partial recording](https://www.youtube.com/watch?v=ZGEO4Yxkjbw) of the lecture. 
 -  Vinciane Despret, [“The Body We Care for: Figures of Anthropo-zoo-genesis.”](https://drive.google.com/file/d/13OR0bNId1bnjG6DxL9X0oelk0xAQmeiX/view?usp=drive_link) *Body & Society*, vol. 10, no. 2, 2004, pp. 111–34.
 
 ### 3. *Natura*, *Dignitas* and other Legal Fictions (**Oct 30**)
