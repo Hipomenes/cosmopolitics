@@ -73,8 +73,8 @@ The workshop will meet on select Wednesays during Fall 2024, Winter and Spring o
 -  Vinciane Despret, [“The Body We Care for: Figures of Anthropo-zoo-genesis.”](https://drive.google.com/file/d/13OR0bNId1bnjG6DxL9X0oelk0xAQmeiX/view?usp=drive_link) *Body & Society*, vol. 10, no. 2, 2004, pp. 111–34.
 
 ### 3. *Natura*, *Dignitas* and other Legal Fictions (**Oct 30**)
-- Yan Thomas, [“The Subject of Right, the Person, Nature: Remarks on the Current Criticism of the Legal Subject”]().
-- Yan Thomas, [“Imago naturae. Note sur l’institutionnalité de la nature à Rome”](), *Théologie et droit dans la science politique de l’État moderne*. École française de Rome, 1991, 201–27
+- Yan Thomas, [“The Subject of Right, the Person, Nature: Remarks on the Current Criticism of the Legal Subject”](), in *Legal Artifices: Ten Essays on Roman Law in the Present Tense: Ten Essays on Roman Law in the Present Tense*,  Edinburgh University Press, 2021.
+- Yan Thomas, [“Imago naturae. Note sur l’institutionnalité de la nature à Rome”](https://drive.google.com/file/d/1Y8t2JvCVg-_ZaMwXJ09ZGfxIcDa9mRcU/view?usp=drive_link), *Théologie et droit dans la science politique de l’État moderne*. École française de Rome, 1991, 201–27
 -  Stéphanie Hennette-Vauchez, ["A Human Dignitas? The Contemporary Principle of Human Dignity as a Mere Reappraisal of an Ancient Legal Concept"]() (July 2008). *EUI Working Papers LAW No. 2008/18*.
 - Jeremy Waldron, [*Dignity, Rank, and Rights*](). Oxford University Press, Berkeley Tanner Lectures, 2012
 
