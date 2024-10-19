@@ -60,16 +60,12 @@ The workshop will meet on select Wednesays during Fall 2024, Winter and Spring o
 
 ### 1. Cosmopolitics and the Question of Universalism (**Oct 2**) 
 - Isabelle Stengers, ["The cosmopolitical proposal](https://drive.google.com/file/d/1oP3SStew2TSE18Wm9hHQBkcEDK913YZK/view?usp=drive_link). In Bruno Latour & Peter Weibel (eds.), *Making Things Public*. MIT Press, 2005, 994-1003.
-  - (Here's the slightly longer (and clearer) original version: Stengers Isabelle, [«La proposition cosmopolitique»](https://drive.google.com/file/d/1n7W3fe2b1pu18Jpbv_0aU_tquQnyLGsZ/view?usp=drive_link), in Jacques Lolive et Olivier Soubeyran , *L'émergence des cosmopolitiques*, La Découverte «Recherches», 2007 p. 45-68.)
-
 - Isabelle Stengers, ["The Curse of Tolerance"](https://drive.google.com/file/d/1P4sxe2oGqRBNU797tyVhPRLnraFIm09E/view?usp=drive_link), *Cosmopolitcs VII*, The University of Minesota, 2011, pp. 303-416.
 - Bruno Latour, ["Whose Cosmos, which Cosmopolitics?"](https://drive.google.com/file/d/1UQcc9IOb158gjMkeTaf2HBGTGotTurd8/view?usp=drive_link),*Common Knowledge* 10:3, 2004, pp. 450-462.
 
 ### 2. *Humanitas* and the Animal (**Oct 16**) 
 - Martin Heidegger, [“Letter on ‘Humanism’"](https://drive.google.com/file/d/1RLJU7MkzX_a4t6hgNTuLaaHmYwLh0XTL/view?usp=drive_link) (1947). In *Basic Writings*. Harper & Row, 1977.
-  - (You can also read this [new critical edition and translation](https://drive.google.com/file/d/1XXohvPF8IGQJvk6NDlfzW1lVVt2W1rp0/view?usp=drive_link). The academic apparatus, including the multiple German interpolations, is very useful, but the typography is not the nicest. And here's the original [*Über den Humanismus*](https://archive.org/details/martin-heidegger-uber-den-humanismus-2000-vittorio-klostermann-frankfurt-am-main).)
 - Peter Sloterdijk, [“The Domestication of Being: the Clarification of the Clearing”](https://drive.google.com/file/d/1AiJ_fsqgegqTS4c4TPOQR9ZVvzF_lM93/view?usp=drive_link). In *Not Saved: Essays after Heidegger*, John Wiley & Sons, 2016.
-  - (This piece was first delivered as a lecture in French at the Centre Pompidou (here's [a partial recording](https://www.youtube.com/watch?v=ZGEO4Yxkjbw)), and published in [a small edition](https://drive.google.com/file/d/1lvyMSnGFQz97NoD-_Pvng1-f0Kcxu3uI/view?usp=drive_link). A year later, it appeared in German in [*Nicht gerettet*](https://drive.google.com/file/d/1lBS6NcDKgpUax7ezsttBf18vN0xl2y0k/view?usp=drive_link).)
 -  Vinciane Despret, [“The Body We Care for: Figures of Anthropo-zoo-genesis.”](https://drive.google.com/file/d/13OR0bNId1bnjG6DxL9X0oelk0xAQmeiX/view?usp=drive_link) *Body & Society*, vol. 10, no. 2, 2004, pp. 111–34.
 
 ### 3. *Natura*, *Dignitas* and other Legal Fictions (**Oct 30**)
