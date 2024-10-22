@@ -70,7 +70,7 @@ The workshop will meet on select Wednesays during Fall 2024, Winter and Spring o
 
 ### 3. *Natura*, *Dignitas* and other Legal Fictions (**Oct 30**)
 - Yan Thomas, [“Imago naturae. Note sur l’institutionnalité de la nature à Rome”](https://drive.google.com/file/d/1Y8t2JvCVg-_ZaMwXJ09ZGfxIcDa9mRcU/view?usp=drive_link), *Théologie et droit dans la science politique de l’État moderne*. École française de Rome, 1991, 201–27 ~ ~~(Here's a [machine-translated version. Use with caution.](https://drive.google.com/file/d/1R5be0rQUZ9rsYIGOtCVHkH7uE1XPS7Fd/view?usp=drive_link)~~] 
-- Yan Thomas, [“The Subject of Right, the Person, Nature: Remarks on the Current Criticism of the Legal Subject”](https://drive.google.com/file/d/1H1lIWdTnEBuLfVl9YT8hzLkzCO52Q86x/view?usp=drive_link), in *Legal Artifices: Ten Essays on Roman Law in the Present Tense*,  Edinburgh University Press, 2021.
+- Yan Thomas, [“The Subject of Right, the Person, Nature: Remarks on the Current Criticism of the Legal Subject”](https://drive.google.com/file/d/1As73WjtvHU8SYZgSQJJG3APfLBSIYpe4/view?usp=drive_link), in *Legal Artifices: Ten Essays on Roman Law in the Present Tense*,  Edinburgh University Press, 2021.
 -  Stéphanie Hennette-Vauchez, ["A Human Dignitas? The Contemporary Principle of Human Dignity as a Mere Reappraisal of an Ancient Legal Concept"](https://drive.google.com/file/d/1GdTS_HyHk_aAsldFL_3KJiB_IcOIGVJ1/view?usp=drive_link) (July 2008). *EUI Working Papers LAW No. 2008/18*.
 - Jeremy Waldron, [*Dignity, Rank, and Rights*](https://drive.google.com/file/d/165Ig8VDoVFjCJl4R-T4ePfuorLeb-73C/view?usp=drive_link). Oxford University Press, Berkeley Tanner Lectures, 2012. ~ Please read Intro and First Lecture.
 
