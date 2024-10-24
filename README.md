@@ -76,7 +76,7 @@ The workshop will meet on select Wednesays during Fall 2024, Winter and Spring o
 
 ### 4. Beyond the Great Divide (**Nov 13**)
 
-- Philippe Descola. [*Beyond Nature and Culture*](https://drive.google.com/file/d/1lbXzKV0wkc7hUbipbtCmQ2fXnUxmB4yh/view?usp=drive_link). The University of Chicago Press, 2013. ➜ Chaps. 1-5, 11.
+- Philippe Descola. [*Beyond Nature and Culture*](https://drive.google.com/file/d/1lbXzKV0wkc7hUbipbtCmQ2fXnUxmB4yh/view?usp=drive_link). The University of Chicago Press, 2013. ➜ Chaps. 1-5.
 - Marisol de la Cadena. ["Indigenous Cosmopolitics in the Andes: Conceptual Reflections beyond Politics.'"](https://drive.google.com/file/d/1nAHhhXEXiylibqO6GVkH9RSMQTu5225a/view?usp=drive_link) *Cultural Anthropology*, vol. 25, no. 2, 2010, pp. 334–70.
 
 ## Alternatives. Winter 2025
