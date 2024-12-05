@@ -81,21 +81,21 @@ The workshop will meet on select Wednesays during Fall 2024, Winter and Spring o
 
 ## Alternatives. Winter 2025
 
-### 5. Perspectivism and Multinaturalism (**Jan 8**)
+### 5. Perspectivism and Multinaturalism (**Jan 22**)
 - Eduardo Viveiros de Castro [*Cannibal Metaphysics*]() (Univocal, 2017). ➜ Chapters 1-4 & 7-11.
 - Gilles Deleuze, *Cours sur Leibniz et le baroque*, Vincennes - St Deni, Dec 16, 1986. ➜ [Recording](https://youtu.be/Sn1XxZeinS8?feature=shared) / [French Transcript](https://deleuze.cla.purdue.edu/lecture/lecture-04-6/) / [English Trans.](https://deleuze.cla.purdue.edu/wp-content/uploads/2020/01/4a-GD-Leibniz16Dec1986-English-Revision-2024.pdf)
 
-### 6. Re-Thinking Relations (**Jan 22**)
+### 6. Re-Thinking Relations (**Feb 5**)
  
 - Donna J. Haraway, [*The Companion Species Manifesto: Dogs, People, and Significant Otherness*](), The University of Chicago Press, 2003.
 - Marilyn Strathern, *Relations: An Anthropological Account*, Duke University Press, 2020.
  
-### 7. Multi-Species Ethnographies (**Feb 5**)
+### 7. Multi-Species Ethnographies (**Feb 19**)
 
 - Eduardo Kohn, [*How Forests Think: Toward an Anthropology beyond the Human*](). University of California Press, 2013.
 - ​Anna Lowenhaupt Tsing, [*The Mushroom at the End of the World : On the Possibility of Life in Capitalist Ruins*](). Princeton University Press, 2015.
 
-### 8. Dangerous Times and Political Reason (**Feb 19**) 
+### 8. Dangerous Times and Political Reason (**Mar 5**) 
 
 - Isabelle Stengers, [*In Catastrophic Times: Resisting the Coming Barbarism*](), trans. by A. Goffey. Open Humanities Press, 2015.
 - Déborah Danowski & Eduardo Viveiros de Castro, [*The Ends of the World*]() trans. R. Guimaraes Nunes. Wiley, 2016. 
