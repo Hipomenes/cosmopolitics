@@ -1,8 +1,7 @@
 ---
-title: Winter 2025
+title: Winter 2025 **updated**{: .label .label-red }
 ---
 
-**updated**{: .label .label-red }
 Jan 22 
 : [Perspectivism and Multinaturalism](#)
   : [Viveiros de Castro, Deleuze](#)
