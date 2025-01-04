@@ -6,7 +6,7 @@ Jan 22
 : [Perspectivism and Multinaturalism](#) **updated schedule**{: .label .label-red }
   : [Viveiros de Castro, Deleuze](#)
 
-Jan 5
+Feb 5
 : [Re-Thinking Relations](#)
   : [Haraway, Strathern](#)
 
