@@ -88,7 +88,7 @@ The workshop will meet on select Wednesays during Fall 2024, Winter and Spring o
 ### 6. Interspecies Entanglements  (**Feb 5**)
  
 - Donna J. Haraway, [*The Companion Species Manifesto: Dogs, People, and Significant Otherness*](), The University of Chicago Press, 2003.
-- Marilyn Strathern, *Relations: An Anthropological Account*, Duke University Press, 2020.
+- Eduardo Kohn, "How dogs dream: Amazonian natures and the politics of transspecies engagement"
  
 ### 7. Multi-Species Ethnographies (**Feb 19**)
 
